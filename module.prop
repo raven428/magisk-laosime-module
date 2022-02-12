@@ -1,6 +1,7 @@
 id=laosime
 name=IME from LineageOS
-version=1.0.0
+version=1.0.1
 versionCode=100
 author=raven428
 description=Systemless add IME from LineageOS to current ROM
+updateJson=https://raw.githubusercontent.com/raven428/magisk-laosime-module/master/update.json

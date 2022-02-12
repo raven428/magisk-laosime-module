@@ -3,6 +3,9 @@ Systemless add IME from LineageOS to current ROM
 
 ## Changelog
 
+### v1.0.1
+- Update to Magisk 24
+
 ### v1.0.0
 - Initial release
 
